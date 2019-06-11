@@ -1,0 +1,15 @@
+/*子孫セレクタ*/
+div p{
+	margin-left: 100px;
+}
+
+/*idセレクタ*/
+
+#main{
+	color: blue;
+}
+
+/*classセレクタ*/
+.highlight{
+	background-color: orange;
+}
